@@ -1,0 +1,9 @@
+﻿dentist John 上午 14 下午 26 夜間 35
+dentist Harry 上午 56 下午 35 夜間 47
+dentist Kane 上午 27 下午 17 夜間 16
+surgical Kimi 上午 17 下午 34 夜間 5 
+surgical Miki 上午 24 下午 57 夜間 24
+surgical Yuna 上午 36 下午 12 夜間 46
+medical Ana 上午 13 下午 13 夜間 47
+medical Yumi 上午 67 下午 25 夜間 125
+medical Kim 上午 24 下午 46 夜間 6

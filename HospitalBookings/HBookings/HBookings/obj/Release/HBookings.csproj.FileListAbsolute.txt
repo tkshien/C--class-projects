@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\C#\Homework\HospitalBookings\HBookings\HBookings\bin\Release\HBookings.exe.config
+C:\Users\acer\Desktop\C#\Homework\HospitalBookings\HBookings\HBookings\bin\Release\HBookings.exe
+C:\Users\acer\Desktop\C#\Homework\HospitalBookings\HBookings\HBookings\bin\Release\HBookings.pdb
+C:\Users\acer\Desktop\C#\Homework\HospitalBookings\HBookings\HBookings\obj\Release\HBookings.exe
+C:\Users\acer\Desktop\C#\Homework\HospitalBookings\HBookings\HBookings\obj\Release\HBookings.pdb
+C:\Users\acer\Desktop\C#\Homework\HospitalBookings\HBookings\HBookings\obj\Release\HBookings.csprojResolveAssemblyReference.cache
