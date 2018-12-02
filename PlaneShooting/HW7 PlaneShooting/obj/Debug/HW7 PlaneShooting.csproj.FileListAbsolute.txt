@@ -1,0 +1,22 @@
+C:\Users\acer\Desktop\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.exe.config
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.exe.config
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.exe
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.pdb
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7_PlaneShooting.Form1.resources
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7_PlaneShooting.Properties.Resources.resources
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.exe
+C:\Users\acer\Desktop\HW7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.pdb
+C:\Users\acer\Desktop\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.exe.config
+C:\Users\acer\Desktop\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.exe
+C:\Users\acer\Desktop\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.pdb
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.exe.config
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.exe
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.pdb
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.exe
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\bin\Debug\HW7 PlaneShooting.pdb
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7_PlaneShooting.Form1.resources
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7_PlaneShooting.Properties.Resources.resources
+C:\Users\acer\Desktop\C#\Homework\HW7\第三組作業7\HW7 PlaneShooting\HW7 PlaneShooting\obj\Debug\HW7 PlaneShooting.csproj.GenerateResource.Cache
