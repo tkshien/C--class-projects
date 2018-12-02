@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\bin\Release\Hw6 FiveStoneChess.exe.config
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\bin\Release\Hw6 FiveStoneChess.exe
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\bin\Release\Hw6 FiveStoneChess.pdb
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\obj\Release\Hw6_FiveStoneChess.Form1.resources
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\obj\Release\Hw6_FiveStoneChess.Properties.Resources.resources
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\obj\Release\Hw6 FiveStoneChess.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\obj\Release\Hw6 FiveStoneChess.exe
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\obj\Release\Hw6 FiveStoneChess.pdb
+C:\Users\acer\Desktop\Hw6 FiveStoneChess\Hw6 FiveStoneChess\obj\Release\Hw6 FiveStoneChess.csprojResolveAssemblyReference.cache
