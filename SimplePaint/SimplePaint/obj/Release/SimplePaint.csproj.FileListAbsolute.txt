@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\bin\Release\SimplePaint.exe.config
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\bin\Release\SimplePaint.exe
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\bin\Release\SimplePaint.pdb
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\obj\Release\SimplePaint.SimplePaint.resources
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\obj\Release\SimplePaint.Properties.Resources.resources
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\obj\Release\SimplePaint.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\obj\Release\SimplePaint.exe
+C:\Users\acer\Desktop\SimplePaint\SimplePaint\obj\Release\SimplePaint.pdb
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\bin\Release\SimplePaint.exe.config
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\bin\Release\SimplePaint.exe
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\bin\Release\SimplePaint.pdb
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\obj\Release\SimplePaint.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\obj\Release\SimplePaint.SimplePaint.resources
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\obj\Release\SimplePaint.Properties.Resources.resources
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\obj\Release\SimplePaint.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\obj\Release\SimplePaint.exe
+C:\Users\acer\Desktop\C#\Homework\SimplePaint\SimplePaint\obj\Release\SimplePaint.pdb
